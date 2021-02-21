@@ -22,6 +22,6 @@ When brought back online:
 Offline entries should be added to tracker.
 
 
-## Deployed Demo
+## Deployed App
 
-[Budget Tracker](https://judno.github.io/budget_tracker/.)
+[Budget Tracker](https://budget-tracker-judno.herokuapp.com/)

@@ -21,10 +21,7 @@ Enter expenses offline
 When brought back online:
 Offline entries should be added to tracker.
 
-## Github
-
-[judno](https://github.com/judno)
 
 ## Deployed Demo
 
-[Budget Tracker]()
+[Budget Tracker](https://judno.github.io/budget_tracker/.)

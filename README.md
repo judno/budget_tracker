@@ -25,3 +25,7 @@ Offline entries should be added to tracker.
 ## Deployed App
 
 [Budget Tracker](https://budget-tracker-judno.herokuapp.com/)
+
+## Screenshot
+
+<img width="701" alt="budget tracker" src="https://user-images.githubusercontent.com/69154965/108626805-37883a80-74a6-11eb-9e71-1ea553439d3c.png">
